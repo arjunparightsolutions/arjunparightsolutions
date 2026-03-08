@@ -17,6 +17,7 @@ I am a Class 10 student and the founder of **Right Solutions A.I.**, a startup f
 | **🥁 Chendai** | A Generative AI model dedicated to creating authentic Kerala Chenda drum beats. |
 | **🎮 Odiyan Project** | A 2D fighting game and digital art project inspired by the folklore of the Odiyan. |
 | **🎨 Right Chithra** | A creative design and video editing suite powered by AI. |
+|**Edith**|Professional Agentic Cybersecurity OS|
 
 ---
 
